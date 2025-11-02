@@ -73,9 +73,11 @@ Algorithm
 
 
 Summary
+
 Recursion is when a function calls itself to solve smaller sub-problems until a base case is reached and iteration is the process of repeatedly executing a set of instructions until a condition is met. Both techniques are widely used for problem-solving in programming. 
 There are two fundamental elements of recursion: a recursive case and a base case. When the recursive case is reached, the function is broken down into smaller sub-problems and calls itself. This process repeats itself until the base case is reached which defines when the recursion should stop and prevents infinite repetition. Recursion offers numerous advantages such as simplicity and readability. Iteration, on the other hand, uses loops like for and while to automate repetitive tasks. It is memory efficient, safe for large input and generally faster since it doesn’t require repeated function calls. 
 While both methods are effective, recursion is preferred for various problems such as divide-and-conquer algorithms (like quick sort and binary search,) problems defined naturally recursively (like factorial and Fibonacci) and hierarchical or nested structures (like trees and graphs).
 
 Conclusion
+
 Computational problems like calculating factorials, generating Fibonacci sequences, reversing strings and performing binary search operations on sorted arrays were successfully solved using recursion. These problems were broken down into smaller, simpler sub-problems until the base case was reached.
