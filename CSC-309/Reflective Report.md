@@ -1,10 +1,15 @@
 CSC-309 Reflective Report
 
 Analytical Minds Group
+
 Osasumwen Osazuwa: 
+
 Daniel Igwe:
+
 Emmanuella:
+
 Joseph Inaku:
+
 Emmanuel:
 
 1.	Turing Test Exercise 
@@ -43,4 +48,5 @@ Challenges
 3.	We tested with different inputs such as numbers and special characters to make sure the program didn’t crash under any circumstance.
 
 Lesson Learned
+
 Although this chatbot is simple and rule-based, it required multiple rounds of testing. Creating this chatbot reflected the amount of time, data and testing it would take to train a more complex AI model. 
