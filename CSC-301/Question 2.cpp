@@ -3,7 +3,7 @@
 using namespace std;
 
 //Analytical Minds Group
-//Osasumwen Osazuwa: 30072729
+//Osasumwen Osazuwa: 
 //Daniel Igwe: 
 //Emmanuella:
 //Joseph Inaku:
@@ -103,3 +103,4 @@ int main() {
 
     return 0;
 }
+
